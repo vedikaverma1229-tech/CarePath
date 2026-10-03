@@ -1,0 +1,76 @@
+{
+  "dialogue": [
+    {
+      "step": 0,
+      "aiQuestion": "Namaste! I am CarePath. Tell me what is bothering you today, or click a common symptom below.",
+      "aiQuestionHi": "नमस्ते! मैं CarePath हूँ। आज आपको क्या परेशानी हो रही है? नीचे बताएं या लक्षण चुनें।",
+      "aiQuestionMr": "नमस्कार! मी CarePath आहे. आज आपल्याला काय त्रास होत आहे? खाली सांगा किंवा पर्याय निवडा.",
+      "quickSuggestions": [
+        "Mujhe fever aur thakan lag rahi hai",
+        "Chest pain aur saans lene me dikkat",
+        "Severe stomach ache since yesterday",
+        "Joint pain and swelling in knee"
+      ]
+    },
+    {
+      "step": 1,
+      "expectedTopic": "fever_duration",
+      "aiQuestion": "Fever kab se hai? (Since how many days have you had the fever?)",
+      "aiQuestionHi": "बुखार कब से है? कितने दिनों से तापमान बढ़ा हुआ है?",
+      "aiQuestionMr": "ताप कधीपासून आहे? किती दिवसांपासून कणकण वाटते आहे?",
+      "quickSuggestions": [
+        "Aaj subah se (Since this morning)",
+        "2 din se (Since 2 days)",
+        "4-5 din se jyada (More than 4 days)"
+      ]
+    },
+    {
+      "step": 2,
+      "expectedTopic": "temperature",
+      "aiQuestion": "Approximate temperature kitna measure kiya hai? (What is the recorded temperature?)",
+      "aiQuestionHi": "लगभग कितना तापमान मापा गया है?",
+      "aiQuestionMr": "अंदाजे किती तापमान मोजले आहे?",
+      "quickSuggestions": [
+        "100°F (Mild fever)",
+        "101°F - 102°F (Moderate)",
+        "103°F or higher (High fever)",
+        "Thermometer se check nahi kiya"
+      ]
+    },
+    {
+      "step": 3,
+      "expectedTopic": "danger_signs",
+      "aiQuestion": "Kya koi red-flag symptoms hain jaise chest pain, saans lene me dikkat, ya behoshi? (Any severe breathing difficulty or chest pain?)",
+      "aiQuestionHi": "क्या सीने में दर्द, सांस लेने में तकलीफ या चक्कर आने जैसे लक्षण हैं?",
+      "aiQuestionMr": "छातीत दुखणे, श्वास घेण्यास त्रास किंवा चक्कर येणे अशी गंभीर लक्षणे आहेत का?",
+      "quickSuggestions": [
+        "No, normal weakness and body ache only",
+        "Yes, chest pain and extreme shortness of breath"
+      ]
+    }
+  ],
+  "standardGuidance": {
+    "conversationId": "demo-carepath-001",
+    "status": "guidance_complete",
+    "careLevel": "CLINIC",
+    "reason": "Based on the 2-day fever of 101°F with mild body weakness and no acute respiratory distress, consulting a local General Physician within 24 hours is recommended for clinical evaluation and routine laboratory tests.",
+    "emergency": false,
+    "symptoms": ["Fever (2 days)", "101°F", "Body ache", "No respiratory distress"],
+    "recommendedSpecialty": "General Medicine",
+    "location": "Nagpur",
+    "budget": 500,
+    "language": "Hindi"
+  },
+  "emergencyGuidance": {
+    "conversationId": "demo-carepath-urgent-999",
+    "status": "emergency_escalation",
+    "careLevel": "URGENT_HOSPITAL",
+    "reason": "The reported combination of chest tightness and shortness of breath requires immediate emergency clinical evaluation to rule out acute cardiopulmonary conditions.",
+    "emergency": true,
+    "symptoms": ["Chest pain", "Shortness of breath"],
+    "recommendedSpecialty": "Cardiology",
+    "location": "Nagpur",
+    "budget": 1000,
+    "language": "Hindi"
+  }
+}

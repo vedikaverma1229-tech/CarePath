@@ -1,0 +1,93 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "Registered or authenticated patient profile",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string", "description": "Unique user ID from Firebase Auth" },
+        "email": { "type": "string", "format": "email", "description": "User email address" },
+        "displayName": { "type": "string", "description": "User full name" },
+        "photoURL": { "type": "string", "description": "User avatar URL" },
+        "phone": { "type": "string", "description": "Contact phone number" },
+        "preferredLanguage": { "type": "string", "enum": ["en", "hi", "mr"], "description": "Preferred interface language" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Account creation timestamp" },
+        "updatedAt": { "type": "string", "format": "date-time", "description": "Last profile update timestamp" }
+      },
+      "required": ["userId", "email"]
+    },
+    "Appointment": {
+      "title": "Appointment",
+      "description": "Doctor consultation appointment record",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "description": "Appointment identifier" },
+        "userId": { "type": "string", "description": "Auth ID of patient who booked" },
+        "doctorId": { "type": "string", "description": "Target doctor identifier" },
+        "doctorName": { "type": "string", "description": "Name of the doctor" },
+        "patientName": { "type": "string", "description": "Name of the patient receiving care" },
+        "patientPhone": { "type": "string", "description": "Contact number of the patient" },
+        "date": { "type": "string", "description": "Appointment date (YYYY-MM-DD)" },
+        "timeSlot": { "type": "string", "description": "Time slot selected" },
+        "notes": { "type": "string", "description": "Optional notes or primary symptoms" },
+        "fee": { "type": "number", "description": "Consultation fee in INR" },
+        "status": { "type": "string", "enum": ["confirmed", "pending", "completed", "cancelled"], "description": "Current status" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Booking timestamp" }
+      },
+      "required": ["doctorId", "patientName", "patientPhone", "date", "timeSlot"]
+    },
+    "Consultation": {
+      "title": "Consultation",
+      "description": "AI clinical guidance and triage consultation record",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "description": "Consultation document ID" },
+        "userId": { "type": "string", "description": "Associated user auth ID" },
+        "sessionId": { "type": "string", "description": "Session ID from AI guidance" },
+        "language": { "type": "string", "enum": ["en", "hi", "mr"], "description": "Language used for consultation" },
+        "symptomsSummary": { "type": "string", "description": "Summary of reported symptoms" },
+        "careLevel": { "type": "string", "enum": ["HOME_CARE", "CLINIC", "URGENT_HOSPITAL"], "description": "Triage care level recommendation" },
+        "recommendedDoctorType": { "type": "string", "description": "Recommended specialty" },
+        "isEmergency": { "type": "boolean", "description": "Whether red-flag emergency symptoms were detected" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Consultation timestamp" }
+      },
+      "required": ["sessionId", "careLevel"]
+    },
+    "BedRequest": {
+      "title": "BedRequest",
+      "description": "Hospital bed reservation request",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "description": "Bed request ID" },
+        "userId": { "type": "string", "description": "Associated user auth ID" },
+        "hospitalId": { "type": "string", "description": "ID of target hospital" },
+        "hospitalName": { "type": "string", "description": "Name of hospital" },
+        "patientName": { "type": "string", "description": "Patient requiring admission" },
+        "contact": { "type": "string", "description": "Contact number" },
+        "department": { "type": "string", "description": "Clinical department" },
+        "bedType": { "type": "string", "description": "Type of bed requested (General / ICU)" },
+        "status": { "type": "string", "enum": ["pending", "confirmed", "dispatched"], "description": "Status of request" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Creation timestamp" }
+      },
+      "required": ["hospitalId", "patientName", "contact", "department", "bedType"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": { "$ref": "entities.User" },
+      "description": "User profile and preferences"
+    },
+    "/appointments/{appointmentId}": {
+      "schema": { "$ref": "entities.Appointment" },
+      "description": "Patient appointments"
+    },
+    "/consultations/{consultationId}": {
+      "schema": { "$ref": "entities.Consultation" },
+      "description": "AI guidance triage records"
+    },
+    "/bedRequests/{bedRequestId}": {
+      "schema": { "$ref": "entities.BedRequest" },
+      "description": "Hospital bed triage requests"
+    }
+  }
+}

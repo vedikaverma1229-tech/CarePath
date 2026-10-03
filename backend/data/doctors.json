@@ -1,0 +1,1734 @@
+[
+  {
+    "id": "doc-ngp-01",
+    "name": "Dr. Chetan Rathi",
+    "specialty": "Cardiology",
+    "qualification": "MBBS, MD (Medicine), DM (Cardiology)",
+    "experience": 15,
+    "fee": 3000,
+    "rating": 4.6,
+    "reviews": 130,
+    "hospitalId": "hosp-ngp-1",
+    "hospitalName": "Hrudayam Heart And Woman Care Clinic",
+    "city": "Nagpur",
+    "location": "Ramdaspeth, Nagpur",
+    "distance": "1.2 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "09:30 AM",
+      "11:00 AM",
+      "04:00 PM",
+      "06:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Chetan Rathi is an accomplished Cardiologist with 15 years of clinical expertise. Practicing at Hrudayam Heart And Woman Care Clinic in Ramdaspeth, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-02",
+    "name": "Dr. Pushkraj Gadkari",
+    "specialty": "Cardiology",
+    "qualification": "MBBS, MD (Medicine), DM (Cardiology)",
+    "experience": 16,
+    "fee": 3500,
+    "rating": 4.7,
+    "reviews": 140,
+    "hospitalId": "hosp-ngp-2",
+    "hospitalName": "Max Super Speciality Hospital + 1",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "1.4 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "03:30 PM",
+      "05:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Pushkraj Gadkari is an accomplished Cardiologist with 16 years of clinical expertise. Practicing at Max Super Speciality Hospital + 1 in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-03",
+    "name": "Dr. Shoeb Nadeem",
+    "specialty": "Cardiology",
+    "qualification": "MBBS, MD (Medicine), DM (Cardiology)",
+    "experience": 21,
+    "fee": 5000,
+    "rating": 4.8,
+    "reviews": 174,
+    "hospitalId": "hosp-ngp-3",
+    "hospitalName": "Max Super Speciality Hospital + 1",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "1.7 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "10:30 AM",
+      "01:00 PM",
+      "04:30 PM",
+      "06:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Shoeb Nadeem is an accomplished Cardiologist with 21 years of clinical expertise. Practicing at Max Super Speciality Hospital + 1 in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-04",
+    "name": "Dr. Khushal Sharnangat",
+    "specialty": "Cardiology",
+    "qualification": "MBBS, MD (Medicine), DM (Cardiology)",
+    "experience": 12,
+    "fee": 2200,
+    "rating": 4.9,
+    "reviews": 124,
+    "hospitalId": "hosp-ngp-4",
+    "hospitalName": "Clinic/hospital listing on Practo",
+    "city": "Nagpur",
+    "location": "Civil Lines, Nagpur",
+    "distance": "1.9 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM",
+      "07:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Khushal Sharnangat is an accomplished Cardiologist with 12 years of clinical expertise. Practicing at Clinic/hospital listing on Practo in Nagpur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-05",
+    "name": "Dr. Pratik Uttarwar",
+    "specialty": "Neurology",
+    "qualification": "MBBS, MD, DM (Neurology)",
+    "experience": 14,
+    "fee": 3000,
+    "rating": 4.6,
+    "reviews": 140,
+    "hospitalId": "hosp-ngp-5",
+    "hospitalName": "The Brain and Heart Clinic",
+    "city": "Nagpur",
+    "location": "Wardha Road, Nagpur",
+    "distance": "2.1 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "09:30 AM",
+      "11:00 AM",
+      "04:00 PM",
+      "06:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Pratik Uttarwar is an accomplished Neurologist with 14 years of clinical expertise. Practicing at The Brain and Heart Clinic in Wardha Road, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-06",
+    "name": "Dr. Lalit Mahajan",
+    "specialty": "Neurology",
+    "qualification": "MBBS, MD, DM (Neurology)",
+    "experience": 19,
+    "fee": 4500,
+    "rating": 4.7,
+    "reviews": 174,
+    "hospitalId": "hosp-ngp-6",
+    "hospitalName": "Max Super Speciality Hospital + 1",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "2.4 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "03:30 PM",
+      "05:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Lalit Mahajan is an accomplished Neurologist with 19 years of clinical expertise. Practicing at Max Super Speciality Hospital + 1 in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-07",
+    "name": "Dr. Ketan Krishnakumar Chaturvedi",
+    "specialty": "Neurology",
+    "qualification": "MBBS, MD, DM (Neurology)",
+    "experience": 23,
+    "fee": 5000,
+    "rating": 4.8,
+    "reviews": 202,
+    "hospitalId": "hosp-ngp-7",
+    "hospitalName": "Max Super Speciality Hospital + 1",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "2.6 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:30 AM",
+      "01:00 PM",
+      "04:30 PM",
+      "06:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Ketan Krishnakumar Chaturvedi is an accomplished Neurologist with 23 years of clinical expertise. Practicing at Max Super Speciality Hospital + 1 in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-08",
+    "name": "Dr. Husain Bhati",
+    "specialty": "Neurology",
+    "qualification": "MBBS, MD, DM (Neurology)",
+    "experience": 19,
+    "fee": 4500,
+    "rating": 4.9,
+    "reviews": 182,
+    "hospitalId": "hosp-ngp-8",
+    "hospitalName": "Practo-listed clinic/hospital",
+    "city": "Nagpur",
+    "location": "Civil Lines, Nagpur",
+    "distance": "2.8 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM",
+      "07:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Husain Bhati is an accomplished Neurologist with 19 years of clinical expertise. Practicing at Practo-listed clinic/hospital in Nagpur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-09",
+    "name": "Dr. Katkar Shraddha Prabhakar",
+    "specialty": "Dermatology",
+    "qualification": "MBBS, MD (Dermatology, Venereology & Leprosy)",
+    "experience": 15,
+    "fee": 1800,
+    "rating": 4.6,
+    "reviews": 162,
+    "hospitalId": "hosp-ngp-9",
+    "hospitalName": "Revola Skin and Hair Clinic",
+    "city": "Nagpur",
+    "location": "Bajaj Nagar, Nagpur",
+    "distance": "3.0 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "09:30 AM",
+      "11:00 AM",
+      "04:00 PM",
+      "06:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Katkar Shraddha Prabhakar is an accomplished Dermatologist with 15 years of clinical expertise. Practicing at Revola Skin and Hair Clinic in Bajaj Nagar, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "female"
+  },
+  {
+    "id": "doc-ngp-10",
+    "name": "Dr. Nitin G Barde",
+    "specialty": "Dermatology",
+    "qualification": "MBBS, MD (Dermatology, Venereology & Leprosy)",
+    "experience": 21,
+    "fee": 2500,
+    "rating": 4.7,
+    "reviews": 202,
+    "hospitalId": "hosp-ngp-10",
+    "hospitalName": "Radiance Skin Antiaging and Hair Transplant Clinic",
+    "city": "Nagpur",
+    "location": "Wardha Road, Nagpur",
+    "distance": "3.3 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "03:30 PM",
+      "05:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Nitin G Barde is an accomplished Dermatologist with 21 years of clinical expertise. Practicing at Radiance Skin Antiaging and Hair Transplant Clinic in Wardha Road, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-11",
+    "name": "Dr. Shama Naaz",
+    "specialty": "Dermatology",
+    "qualification": "MBBS, MD (Dermatology, Venereology & Leprosy)",
+    "experience": 9,
+    "fee": 800,
+    "rating": 4.8,
+    "reviews": 134,
+    "hospitalId": "hosp-ngp-11",
+    "hospitalName": "Clarion Clinic",
+    "city": "Nagpur",
+    "location": "Sadar, Nagpur",
+    "distance": "3.5 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:30 AM",
+      "01:00 PM",
+      "04:30 PM",
+      "06:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Shama Naaz is an accomplished Dermatologist with 9 years of clinical expertise. Practicing at Clarion Clinic in Sadar, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "female"
+  },
+  {
+    "id": "doc-ngp-12",
+    "name": "Dr. Manoj Waghmare",
+    "specialty": "Dermatology",
+    "qualification": "MBBS, MD (Dermatology, Venereology & Leprosy)",
+    "experience": 22,
+    "fee": 2500,
+    "rating": 4.9,
+    "reviews": 216,
+    "hospitalId": "hosp-ngp-12",
+    "hospitalName": "Practo-listed clinic/hospital",
+    "city": "Nagpur",
+    "location": "Civil Lines, Nagpur",
+    "distance": "3.7 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM",
+      "07:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Manoj Waghmare is an accomplished Dermatologist with 22 years of clinical expertise. Practicing at Practo-listed clinic/hospital in Nagpur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-13",
+    "name": "Dr. Romil Rathi",
+    "specialty": "Orthopedics",
+    "qualification": "MBBS, MS (Orthopedics), DNB",
+    "experience": 17,
+    "fee": 2800,
+    "rating": 4.6,
+    "reviews": 190,
+    "hospitalId": "hosp-ngp-13",
+    "hospitalName": "Medicure Multispeciality Clinic",
+    "city": "Nagpur",
+    "location": "Ramdaspeth, Nagpur",
+    "distance": "4.0 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "09:30 AM",
+      "11:00 AM",
+      "04:00 PM",
+      "06:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Romil Rathi is an accomplished Orthopedist with 17 years of clinical expertise. Practicing at Medicure Multispeciality Clinic in Ramdaspeth, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-14",
+    "name": "Dr. Mohammed Faizan",
+    "specialty": "Orthopedics",
+    "qualification": "MBBS, MS (Orthopedics), DNB",
+    "experience": 24,
+    "fee": 3500,
+    "rating": 4.7,
+    "reviews": 236,
+    "hospitalId": "hosp-ngp-14",
+    "hospitalName": "Max Super Speciality Hospital + 2",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "4.2 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "03:30 PM",
+      "05:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Mohammed Faizan is an accomplished Orthopedist with 24 years of clinical expertise. Practicing at Max Super Speciality Hospital + 2 in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-15",
+    "name": "Dr. Manoj J. Pahukar",
+    "specialty": "Orthopedics",
+    "qualification": "MBBS, MS (Orthopedics), DNB",
+    "experience": 28,
+    "fee": 4500,
+    "rating": 4.8,
+    "reviews": 264,
+    "hospitalId": "hosp-ngp-15",
+    "hospitalName": "Max Super Speciality Hospital",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "4.4 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "10:30 AM",
+      "01:00 PM",
+      "04:30 PM",
+      "06:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Manoj J. Pahukar is an accomplished Orthopedist with 28 years of clinical expertise. Practicing at Max Super Speciality Hospital in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-16",
+    "name": "Dr. Ashish Choubey",
+    "specialty": "Orthopedics",
+    "qualification": "MBBS, MS (Orthopedics), DNB",
+    "experience": 30,
+    "fee": 4500,
+    "rating": 4.9,
+    "reviews": 220,
+    "hospitalId": "hosp-ngp-16",
+    "hospitalName": "Practo-listed clinic/hospital",
+    "city": "Nagpur",
+    "location": "Civil Lines, Nagpur",
+    "distance": "4.7 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM",
+      "07:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Ashish Choubey is an accomplished Orthopedist with 30 years of clinical expertise. Practicing at Practo-listed clinic/hospital in Nagpur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-17",
+    "name": "Dr. Priya Daswani",
+    "specialty": "Pediatrics",
+    "qualification": "MBBS, MD (Pediatrics), DCH",
+    "experience": 10,
+    "fee": 1200,
+    "rating": 4.6,
+    "reviews": 104,
+    "hospitalId": "hosp-ngp-17",
+    "hospitalName": "Ganwani Heart Care Clinic",
+    "city": "Nagpur",
+    "location": "Central Avenue Road, Nagpur",
+    "distance": "4.9 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "09:30 AM",
+      "11:00 AM",
+      "04:00 PM",
+      "06:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Priya Daswani is an accomplished Pediatrician with 10 years of clinical expertise. Practicing at Ganwani Heart Care Clinic in Central Avenue Road, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "female"
+  },
+  {
+    "id": "doc-ngp-18",
+    "name": "Dr. Bhaskar Gupta",
+    "specialty": "Pediatrics",
+    "qualification": "MBBS, MD (Pediatrics), DCH",
+    "experience": 39,
+    "fee": 3000,
+    "rating": 4.7,
+    "reviews": 282,
+    "hospitalId": "hosp-ngp-18",
+    "hospitalName": "Max Super Speciality Hospital",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "5.1 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "03:30 PM",
+      "05:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Bhaskar Gupta is an accomplished Pediatrician with 39 years of clinical expertise. Practicing at Max Super Speciality Hospital in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-19",
+    "name": "Dr. Sharwari Rathi",
+    "specialty": "Pediatrics",
+    "qualification": "MBBS, MD (Pediatrics), DCH",
+    "experience": 17,
+    "fee": 2500,
+    "rating": 4.8,
+    "reviews": 154,
+    "hospitalId": "hosp-ngp-19",
+    "hospitalName": "Practo-listed clinic/hospital",
+    "city": "Nagpur",
+    "location": "Civil Lines, Nagpur",
+    "distance": "5.3 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:30 AM",
+      "01:00 PM",
+      "04:30 PM",
+      "06:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Sharwari Rathi is an accomplished Pediatrician with 17 years of clinical expertise. Practicing at Practo-listed clinic/hospital in Nagpur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "female"
+  },
+  {
+    "id": "doc-ngp-20",
+    "name": "Dr. Yash Banait",
+    "specialty": "Pediatrics",
+    "qualification": "MBBS, MD (Pediatrics), DCH",
+    "experience": 12,
+    "fee": 1800,
+    "rating": 4.9,
+    "reviews": 128,
+    "hospitalId": "hosp-ngp-20",
+    "hospitalName": "Practo-listed clinic/hospital",
+    "city": "Nagpur",
+    "location": "Civil Lines, Nagpur",
+    "distance": "5.6 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM",
+      "07:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Yash Banait is an accomplished Pediatrician with 12 years of clinical expertise. Practicing at Practo-listed clinic/hospital in Nagpur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-21",
+    "name": "Dr. Rajesh Modi",
+    "specialty": "Gynecology & Obstetrics",
+    "qualification": "MBBS, MS (Obstetrics & Gynecology), DGO",
+    "experience": 29,
+    "fee": 3000,
+    "rating": 4.6,
+    "reviews": 234,
+    "hospitalId": "hosp-ngp-21",
+    "hospitalName": "Dr Modi Pluro Endoscopy & IVF + 2",
+    "city": "Nagpur",
+    "location": "Ramdaspeth, Nagpur",
+    "distance": "5.8 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "09:30 AM",
+      "11:00 AM",
+      "04:00 PM",
+      "06:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Rajesh Modi is an accomplished Gynecologist/Obstetrician with 29 years of clinical expertise. Practicing at Dr Modi Pluro Endoscopy & IVF + 2 in Ramdaspeth, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-22",
+    "name": "Dr. Sunita Dhande",
+    "specialty": "Gynecology & Obstetrics",
+    "qualification": "MBBS, MS (Obstetrics & Gynecology), DGO",
+    "experience": 36,
+    "fee": 3000,
+    "rating": 4.7,
+    "reviews": 280,
+    "hospitalId": "hosp-ngp-22",
+    "hospitalName": "Mother Care Nursing Home",
+    "city": "Nagpur",
+    "location": "Ramdaspeth, Nagpur",
+    "distance": "1.2 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "03:30 PM",
+      "05:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Sunita Dhande is an accomplished Gynecologist/Obstetrician with 36 years of clinical expertise. Practicing at Mother Care Nursing Home in Ramdaspeth, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "female"
+  },
+  {
+    "id": "doc-ngp-23",
+    "name": "Dr. Sanjana Sainani",
+    "specialty": "Gynecology & Obstetrics",
+    "qualification": "MBBS, MS (Obstetrics & Gynecology), DGO",
+    "experience": 15,
+    "fee": 1800,
+    "rating": 4.8,
+    "reviews": 158,
+    "hospitalId": "hosp-ngp-23",
+    "hospitalName": "Practo-listed clinic",
+    "city": "Nagpur",
+    "location": "Ramdaspeth, Nagpur",
+    "distance": "1.5 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:30 AM",
+      "01:00 PM",
+      "04:30 PM",
+      "06:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Sanjana Sainani is an accomplished Gynecologist/Obstetrician with 15 years of clinical expertise. Practicing at Practo-listed clinic in Ramdaspeth, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "female"
+  },
+  {
+    "id": "doc-ngp-24",
+    "name": "Dr. Shivangi Sahewala",
+    "specialty": "Gynecology & Obstetrics",
+    "qualification": "MBBS, MS (Obstetrics & Gynecology), DGO",
+    "experience": 12,
+    "fee": 1800,
+    "rating": 4.9,
+    "reviews": 144,
+    "hospitalId": "hosp-ngp-24",
+    "hospitalName": "Rosewood Women Hospital",
+    "city": "Nagpur",
+    "location": "Ramdaspeth, Nagpur",
+    "distance": "1.7 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM",
+      "07:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Shivangi Sahewala is an accomplished Gynecologist/Obstetrician with 12 years of clinical expertise. Practicing at Rosewood Women Hospital in Ramdaspeth, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "female"
+  },
+  {
+    "id": "doc-ngp-25",
+    "name": "Dr. Swapnil Ram Rathod",
+    "specialty": "Ophthalmology",
+    "qualification": "MBBS, MS (Ophthalmology)",
+    "experience": 16,
+    "fee": 1800,
+    "rating": 4.6,
+    "reviews": 172,
+    "hospitalId": "hosp-ngp-25",
+    "hospitalName": "Practo-listed clinic",
+    "city": "Nagpur",
+    "location": "Civil Lines, Nagpur",
+    "distance": "1.9 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "09:30 AM",
+      "11:00 AM",
+      "04:00 PM",
+      "06:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Swapnil Ram Rathod is an accomplished Ophthalmologist with 16 years of clinical expertise. Practicing at Practo-listed clinic in Nagpur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-26",
+    "name": "Dr. Manoj Shrivastava",
+    "specialty": "Ophthalmology",
+    "qualification": "MBBS, MS (Ophthalmology)",
+    "experience": 40,
+    "fee": 2500,
+    "rating": 4.7,
+    "reviews": 320,
+    "hospitalId": "hosp-ngp-26",
+    "hospitalName": "Practo-listed clinic",
+    "city": "Nagpur",
+    "location": "Civil Lines, Nagpur",
+    "distance": "2.2 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "03:30 PM",
+      "05:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Manoj Shrivastava is an accomplished Ophthalmologist with 40 years of clinical expertise. Practicing at Practo-listed clinic in Nagpur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-27",
+    "name": "Dr. Krishna Bhojwani",
+    "specialty": "Ophthalmology",
+    "qualification": "MBBS, MS (Ophthalmology)",
+    "experience": 30,
+    "fee": 2500,
+    "rating": 4.8,
+    "reviews": 264,
+    "hospitalId": "hosp-ngp-27",
+    "hospitalName": "Practo-listed clinic",
+    "city": "Nagpur",
+    "location": "Civil Lines, Nagpur",
+    "distance": "2.4 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "10:30 AM",
+      "01:00 PM",
+      "04:30 PM",
+      "06:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Krishna Bhojwani is an accomplished Ophthalmologist with 30 years of clinical expertise. Practicing at Practo-listed clinic in Nagpur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-28",
+    "name": "Dr. Shamik Ambatkar",
+    "specialty": "Ophthalmology",
+    "qualification": "MBBS, MS (Ophthalmology)",
+    "experience": 29,
+    "fee": 2500,
+    "rating": 4.9,
+    "reviews": 262,
+    "hospitalId": "hosp-ngp-28",
+    "hospitalName": "Practo-listed clinic",
+    "city": "Nagpur",
+    "location": "Civil Lines, Nagpur",
+    "distance": "2.6 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM",
+      "07:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Shamik Ambatkar is an accomplished Ophthalmologist with 29 years of clinical expertise. Practicing at Practo-listed clinic in Nagpur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-29",
+    "name": "Dr. Rajesh Rathi",
+    "specialty": "Psychiatry",
+    "qualification": "MBBS, MD (Psychiatry), DPM",
+    "experience": 17,
+    "fee": 2500,
+    "rating": 4.6,
+    "reviews": 194,
+    "hospitalId": "hosp-ngp-29",
+    "hospitalName": "Apex Clinic + 3",
+    "city": "Nagpur",
+    "location": "Dhantoli, Nagpur",
+    "distance": "2.8 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "09:30 AM",
+      "11:00 AM",
+      "04:00 PM",
+      "06:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Rajesh Rathi is an accomplished Psychiatrist with 17 years of clinical expertise. Practicing at Apex Clinic + 3 in Dhantoli, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-30",
+    "name": "Dr. Shrikant Nimbhorkar",
+    "specialty": "Psychiatry",
+    "qualification": "MBBS, MD (Psychiatry), DPM",
+    "experience": 23,
+    "fee": 3000,
+    "rating": 4.7,
+    "reviews": 234,
+    "hospitalId": "hosp-ngp-30",
+    "hospitalName": "Manoyoga Clinic + 2",
+    "city": "Nagpur",
+    "location": "Dhantoli, Nagpur",
+    "distance": "3.1 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "03:30 PM",
+      "05:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Shrikant Nimbhorkar is an accomplished Psychiatrist with 23 years of clinical expertise. Practicing at Manoyoga Clinic + 2 in Dhantoli, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-31",
+    "name": "Dr. Zeeshan Mujawar",
+    "specialty": "Psychiatry",
+    "qualification": "MBBS, MD (Psychiatry), DPM",
+    "experience": 14,
+    "fee": 1800,
+    "rating": 4.8,
+    "reviews": 124,
+    "hospitalId": "hosp-ngp-31",
+    "hospitalName": "Clarion Clinic",
+    "city": "Nagpur",
+    "location": "Sadar, Nagpur",
+    "distance": "3.3 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:30 AM",
+      "01:00 PM",
+      "04:30 PM",
+      "06:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Zeeshan Mujawar is an accomplished Psychiatrist with 14 years of clinical expertise. Practicing at Clarion Clinic in Sadar, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-32",
+    "name": "Dr. Pranav Pohane",
+    "specialty": "Psychiatry",
+    "qualification": "MBBS, MD (Psychiatry), DPM",
+    "experience": 12,
+    "fee": 1800,
+    "rating": 4.9,
+    "reviews": 116,
+    "hospitalId": "hosp-ngp-32",
+    "hospitalName": "Practo-listed clinic",
+    "city": "Nagpur",
+    "location": "Civil Lines, Nagpur",
+    "distance": "3.5 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM",
+      "07:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Pranav Pohane is an accomplished Psychiatrist with 12 years of clinical expertise. Practicing at Practo-listed clinic in Nagpur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-33",
+    "name": "Dr. Saurabh Patle",
+    "specialty": "Gastroenterology",
+    "qualification": "MBBS, MD, DM (Medical Gastroenterology)",
+    "experience": 17,
+    "fee": 2800,
+    "rating": 4.6,
+    "reviews": 150,
+    "hospitalId": "hosp-ngp-33",
+    "hospitalName": "Max Super Speciality Hospital + 1",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "3.8 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "09:30 AM",
+      "11:00 AM",
+      "04:00 PM",
+      "06:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Saurabh Patle is an accomplished Gastroenterologist with 17 years of clinical expertise. Practicing at Max Super Speciality Hospital + 1 in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-34",
+    "name": "Dr. Amit Gulhane",
+    "specialty": "Gastroenterology",
+    "qualification": "MBBS, MD, DM (Medical Gastroenterology)",
+    "experience": 20,
+    "fee": 3500,
+    "rating": 4.7,
+    "reviews": 172,
+    "hospitalId": "hosp-ngp-34",
+    "hospitalName": "Max Super Speciality Hospital",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "4.0 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "03:30 PM",
+      "05:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Amit Gulhane is an accomplished Gastroenterologist with 20 years of clinical expertise. Practicing at Max Super Speciality Hospital in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-35",
+    "name": "Dr. Sagar Shankar Patil",
+    "specialty": "Gastroenterology",
+    "qualification": "MBBS, MD, DM (Medical Gastroenterology)",
+    "experience": 15,
+    "fee": 2000,
+    "rating": 4.8,
+    "reviews": 146,
+    "hospitalId": "hosp-ngp-35",
+    "hospitalName": "Max Super Speciality Hospital + 3",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "4.2 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:30 AM",
+      "01:00 PM",
+      "04:30 PM",
+      "06:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Sagar Shankar Patil is an accomplished Gastroenterologist with 15 years of clinical expertise. Practicing at Max Super Speciality Hospital + 3 in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-36",
+    "name": "Dr. Samir Patil",
+    "specialty": "Gastroenterology",
+    "qualification": "MBBS, MD, DM (Medical Gastroenterology)",
+    "experience": 29,
+    "fee": 4500,
+    "rating": 4.9,
+    "reviews": 234,
+    "hospitalId": "hosp-ngp-36",
+    "hospitalName": "Kingsway Hospitals",
+    "city": "Nagpur",
+    "location": "Kasturchand Park, Nagpur",
+    "distance": "4.5 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM",
+      "07:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Samir Patil is an accomplished Gastroenterologist with 29 years of clinical expertise. Practicing at Kingsway Hospitals in Kasturchand Park, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-37",
+    "name": "Dr. Ashwinikumar Khandekar",
+    "specialty": "Nephrology",
+    "qualification": "MBBS, MD, DM (Nephrology)",
+    "experience": 24,
+    "fee": 3500,
+    "rating": 4.6,
+    "reviews": 208,
+    "hospitalId": "hosp-ngp-37",
+    "hospitalName": "KIMS-Kingsway Hospital + 1",
+    "city": "Nagpur",
+    "location": "Kasturchand Park, Nagpur",
+    "distance": "4.7 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "09:30 AM",
+      "11:00 AM",
+      "04:00 PM",
+      "06:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Ashwinikumar Khandekar is an accomplished Nephrologist with 24 years of clinical expertise. Practicing at KIMS-Kingsway Hospital + 1 in Kasturchand Park, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-38",
+    "name": "Dr. Jitesh Jeswani",
+    "specialty": "Nephrology",
+    "qualification": "MBBS, MD, DM (Nephrology)",
+    "experience": 15,
+    "fee": 2000,
+    "rating": 4.7,
+    "reviews": 158,
+    "hospitalId": "hosp-ngp-38",
+    "hospitalName": "Nephron Kidney Hospital + 1",
+    "city": "Nagpur",
+    "location": "Sitabuldi, Nagpur",
+    "distance": "4.9 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "03:30 PM",
+      "05:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Jitesh Jeswani is an accomplished Nephrologist with 15 years of clinical expertise. Practicing at Nephron Kidney Hospital + 1 in Sitabuldi, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-39",
+    "name": "Dr. Vishal Ramteke",
+    "specialty": "Nephrology",
+    "qualification": "MBBS, MD, DM (Nephrology)",
+    "experience": 9,
+    "fee": 1500,
+    "rating": 4.8,
+    "reviews": 126,
+    "hospitalId": "hosp-ngp-39",
+    "hospitalName": "Max Super Speciality Hospital",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "5.1 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "10:30 AM",
+      "01:00 PM",
+      "04:30 PM",
+      "06:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Vishal Ramteke is an accomplished Nephrologist with 9 years of clinical expertise. Practicing at Max Super Speciality Hospital in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-40",
+    "name": "Dr. Pankaj Jawandhiya",
+    "specialty": "Nephrology",
+    "qualification": "MBBS, MD, DM (Nephrology)",
+    "experience": 12,
+    "fee": 2000,
+    "rating": 4.9,
+    "reviews": 148,
+    "hospitalId": "hosp-ngp-40",
+    "hospitalName": "Max Super Speciality Hospital",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "5.4 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM",
+      "07:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Pankaj Jawandhiya is an accomplished Nephrologist with 12 years of clinical expertise. Practicing at Max Super Speciality Hospital in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-41",
+    "name": "Dr. Sanjay Kolte",
+    "specialty": "Urology",
+    "qualification": "MBBS, MS, MCh (Urology)",
+    "experience": 37,
+    "fee": 4500,
+    "rating": 4.6,
+    "reviews": 302,
+    "hospitalId": "hosp-ngp-41",
+    "hospitalName": "Max Super Speciality Hospital + 2",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "5.6 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "09:30 AM",
+      "11:00 AM",
+      "04:00 PM",
+      "06:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Sanjay Kolte is an accomplished Urologist with 37 years of clinical expertise. Practicing at Max Super Speciality Hospital + 2 in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-42",
+    "name": "Dr. Juned Shaikh",
+    "specialty": "Urology",
+    "qualification": "MBBS, MS, MCh (Urology)",
+    "experience": 20,
+    "fee": 3500,
+    "rating": 4.7,
+    "reviews": 204,
+    "hospitalId": "hosp-ngp-42",
+    "hospitalName": "Max Super Speciality Hospital + 2",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "5.8 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "03:30 PM",
+      "05:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Juned Shaikh is an accomplished Urologist with 20 years of clinical expertise. Practicing at Max Super Speciality Hospital + 2 in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-43",
+    "name": "Dr. Shruti Pandit",
+    "specialty": "Urology",
+    "qualification": "MBBS, MS, MCh (Urology)",
+    "experience": 10,
+    "fee": 1500,
+    "rating": 4.8,
+    "reviews": 148,
+    "hospitalId": "hosp-ngp-43",
+    "hospitalName": "Max Super Speciality Hospital + 1",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "1.3 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:30 AM",
+      "01:00 PM",
+      "04:30 PM",
+      "06:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Shruti Pandit is an accomplished Urologist with 10 years of clinical expertise. Practicing at Max Super Speciality Hospital + 1 in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "female"
+  },
+  {
+    "id": "doc-ngp-44",
+    "name": "Dr. Rajesh Soni",
+    "specialty": "Urology",
+    "qualification": "MBBS, MS, MCh (Urology)",
+    "experience": 39,
+    "fee": 4500,
+    "rating": 4.9,
+    "reviews": 326,
+    "hospitalId": "hosp-ngp-44",
+    "hospitalName": "Soni Hospital + 1",
+    "city": "Nagpur",
+    "location": "Ramdaspeth, Nagpur",
+    "distance": "1.5 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM",
+      "07:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Rajesh Soni is an accomplished Urologist with 39 years of clinical expertise. Practicing at Soni Hospital + 1 in Ramdaspeth, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-45",
+    "name": "Dr. Nitin Bomanwar",
+    "specialty": "Oncology",
+    "qualification": "MBBS, MD, DM (Medical Oncology)",
+    "experience": 23,
+    "fee": 5000,
+    "rating": 4.6,
+    "reviews": 234,
+    "hospitalId": "hosp-ngp-45",
+    "hospitalName": "HCG NCHRI Cancer Centre + 3",
+    "city": "Nagpur",
+    "location": "Binaki, Nagpur",
+    "distance": "1.7 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "09:30 AM",
+      "11:00 AM",
+      "04:00 PM",
+      "06:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Nitin Bomanwar is an accomplished Oncologist with 23 years of clinical expertise. Practicing at HCG NCHRI Cancer Centre + 3 in Binaki, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-46",
+    "name": "Dr. Mangesh B. Patil",
+    "specialty": "Oncology",
+    "qualification": "MBBS, MD, DM (Medical Oncology)",
+    "experience": 16,
+    "fee": 3500,
+    "rating": 4.7,
+    "reviews": 136,
+    "hospitalId": "hosp-ngp-46",
+    "hospitalName": "HCG NCHRI Cancer Centre + 1",
+    "city": "Nagpur",
+    "location": "Binaki, Nagpur",
+    "distance": "1.9 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "03:30 PM",
+      "05:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Mangesh B. Patil is an accomplished Oncologist with 16 years of clinical expertise. Practicing at HCG NCHRI Cancer Centre + 1 in Binaki, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-47",
+    "name": "Dr. Bhaskar Singh",
+    "specialty": "Oncology",
+    "qualification": "MBBS, MD, DM (Medical Oncology)",
+    "experience": 19,
+    "fee": 4500,
+    "rating": 4.8,
+    "reviews": 158,
+    "hospitalId": "hosp-ngp-47",
+    "hospitalName": "HCG NCHRI Cancer Centre",
+    "city": "Nagpur",
+    "location": "Binaki, Nagpur",
+    "distance": "2.2 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:30 AM",
+      "01:00 PM",
+      "04:30 PM",
+      "06:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Bhaskar Singh is an accomplished Oncologist with 19 years of clinical expertise. Practicing at HCG NCHRI Cancer Centre in Binaki, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-48",
+    "name": "Dr. Nishad Dhakate",
+    "specialty": "Oncology",
+    "qualification": "MBBS, MD, DM (Medical Oncology)",
+    "experience": 22,
+    "fee": 5000,
+    "rating": 4.9,
+    "reviews": 180,
+    "hospitalId": "hosp-ngp-48",
+    "hospitalName": "HCG NCHRI Cancer Centre",
+    "city": "Nagpur",
+    "location": "Binaki, Nagpur",
+    "distance": "2.4 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM",
+      "07:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Nishad Dhakate is an accomplished Oncologist with 22 years of clinical expertise. Practicing at HCG NCHRI Cancer Centre in Binaki, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-49",
+    "name": "Dr. Shailesh Kelkar",
+    "specialty": "General Medicine",
+    "qualification": "MBBS, MD (General Medicine)",
+    "experience": 36,
+    "fee": 1500,
+    "rating": 4.6,
+    "reviews": 268,
+    "hospitalId": "hosp-ngp-49",
+    "hospitalName": "Dr. Kelkar's Spine & Brain Clinic",
+    "city": "Nagpur",
+    "location": "Dharampeth, Nagpur",
+    "distance": "2.6 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "09:30 AM",
+      "11:00 AM",
+      "04:00 PM",
+      "06:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Shailesh Kelkar is an accomplished General Physician with 36 years of clinical expertise. Practicing at Dr. Kelkar's Spine & Brain Clinic in Dharampeth, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-50",
+    "name": "Dr. Pragati Bhole",
+    "specialty": "General Medicine",
+    "qualification": "MBBS, MD (General Medicine)",
+    "experience": 26,
+    "fee": 1500,
+    "rating": 4.7,
+    "reviews": 212,
+    "hospitalId": "hosp-ngp-50",
+    "hospitalName": "HealX Clinic",
+    "city": "Nagpur",
+    "location": "Laxmi Nagar, Nagpur",
+    "distance": "2.9 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "03:30 PM",
+      "05:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Pragati Bhole is an accomplished General Physician with 26 years of clinical expertise. Practicing at HealX Clinic in Laxmi Nagar, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "female"
+  },
+  {
+    "id": "doc-ngp-51",
+    "name": "Dr. Gajbe Sandeep Paiku",
+    "specialty": "General Medicine",
+    "qualification": "MBBS, MD (General Medicine)",
+    "experience": 17,
+    "fee": 1000,
+    "rating": 4.8,
+    "reviews": 162,
+    "hospitalId": "hosp-ngp-51",
+    "hospitalName": "HCG NCHRI Cancer Centre",
+    "city": "Nagpur",
+    "location": "Binaki, Nagpur",
+    "distance": "3.1 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "10:30 AM",
+      "01:00 PM",
+      "04:30 PM",
+      "06:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Gajbe Sandeep Paiku is an accomplished General Physician with 17 years of clinical expertise. Practicing at HCG NCHRI Cancer Centre in Binaki, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-52",
+    "name": "Dr. Nitin Wadaskar",
+    "specialty": "General Medicine",
+    "qualification": "MBBS, MD (General Medicine)",
+    "experience": 21,
+    "fee": 1500,
+    "rating": 4.9,
+    "reviews": 190,
+    "hospitalId": "hosp-ngp-52",
+    "hospitalName": "Max Super Speciality Hospital + 1",
+    "city": "Nagpur",
+    "location": "Mankapur, Nagpur",
+    "distance": "3.3 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM",
+      "07:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Nitin Wadaskar is an accomplished General Physician with 21 years of clinical expertise. Practicing at Max Super Speciality Hospital + 1 in Mankapur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-53",
+    "name": "Dr. Vijay Bansod",
+    "specialty": "ENT",
+    "qualification": "MBBS, MS (ENT / Otorhinolaryngology)",
+    "experience": 21,
+    "fee": 2500,
+    "rating": 4.6,
+    "reviews": 194,
+    "hospitalId": "hosp-ngp-53",
+    "hospitalName": "Bansod Laser and Endoscopic ENT Centre + 1",
+    "city": "Nagpur",
+    "location": "Ramdaspeth, Nagpur",
+    "distance": "3.6 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "09:30 AM",
+      "11:00 AM",
+      "04:00 PM",
+      "06:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Vijay Bansod is an accomplished ENT/Otorhinolaryngologist with 21 years of clinical expertise. Practicing at Bansod Laser and Endoscopic ENT Centre + 1 in Ramdaspeth, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-54",
+    "name": "Dr. Darakshan Parveen",
+    "specialty": "ENT",
+    "qualification": "MBBS, MS (ENT / Otorhinolaryngology)",
+    "experience": 21,
+    "fee": 2500,
+    "rating": 4.7,
+    "reviews": 198,
+    "hospitalId": "hosp-ngp-54",
+    "hospitalName": "Practo-listed clinic/hospital",
+    "city": "Nagpur",
+    "location": "Civil Lines, Nagpur",
+    "distance": "3.8 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "03:30 PM",
+      "05:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Darakshan Parveen is an accomplished ENT/Otorhinolaryngologist with 21 years of clinical expertise. Practicing at Practo-listed clinic/hospital in Nagpur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "female"
+  },
+  {
+    "id": "doc-ngp-55",
+    "name": "Dr. Bhalchandra Pramod Kolwadkar",
+    "specialty": "ENT",
+    "qualification": "MBBS, MS (ENT / Otorhinolaryngology)",
+    "experience": 26,
+    "fee": 2500,
+    "rating": 4.8,
+    "reviews": 232,
+    "hospitalId": "hosp-ngp-55",
+    "hospitalName": "Kolwadkar Ear Nose Throat Clinic",
+    "city": "Nagpur",
+    "location": "Civil Lines, Nagpur",
+    "distance": "4.0 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:30 AM",
+      "01:00 PM",
+      "04:30 PM",
+      "06:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Bhalchandra Pramod Kolwadkar is an accomplished ENT/Otorhinolaryngologist with 26 years of clinical expertise. Practicing at Kolwadkar Ear Nose Throat Clinic in Nagpur, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ngp-56",
+    "name": "Dr. Minal Gupta",
+    "specialty": "ENT",
+    "qualification": "MBBS, MS (ENT / Otorhinolaryngology)",
+    "experience": 20,
+    "fee": 2500,
+    "rating": 4.9,
+    "reviews": 200,
+    "hospitalId": "hosp-ngp-56",
+    "hospitalName": "Indriya Eye & ENT Hospital",
+    "city": "Nagpur",
+    "location": "Ramdaspeth, Nagpur",
+    "distance": "4.3 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM",
+      "07:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ],
+    "about": "Dr. Minal Gupta is an accomplished ENT/Otorhinolaryngologist with 20 years of clinical expertise. Practicing at Indriya Eye & ENT Hospital in Ramdaspeth, Nagpur, offering comprehensive patient consultation and compassionate clinical care.",
+    "gender": "female"
+  },
+  {
+    "id": "doc-bho-01",
+    "name": "Dr. Arvind Saxena",
+    "specialty": "General Medicine",
+    "qualification": "MBBS, MD (General Medicine)",
+    "experience": 18,
+    "fee": 1000,
+    "rating": 4.8,
+    "reviews": 190,
+    "hospitalId": "hosp-bho-01",
+    "hospitalName": "AIIMS Bhopal Care Annex",
+    "city": "Bhopal",
+    "location": "Saket Nagar, Bhopal",
+    "distance": "3.2 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:00 AM",
+      "12:30 PM",
+      "04:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "about": "Senior physician dedicated to rural health outreach, infection triage, and diabetes management.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-bho-02",
+    "name": "Dr. Vikas Bhargava",
+    "specialty": "Cardiology",
+    "qualification": "MBBS, MD, DNB (Cardiology)",
+    "experience": 14,
+    "fee": 3000,
+    "rating": 4.8,
+    "reviews": 175,
+    "hospitalId": "hosp-bho-01",
+    "hospitalName": "Bhopal Memorial Hospital",
+    "city": "Bhopal",
+    "location": "Bhopal",
+    "distance": "3.6 km",
+    "availability": "Available Tomorrow",
+    "availableSlots": [
+      "11:00 AM",
+      "02:00 PM",
+      "05:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "about": "Cardiologist specializing in chest pain evaluation and cardiac care.",
+    "gender": "male"
+  },
+  {
+    "id": "doc-ind-01",
+    "name": "Dr. Meenakshi Tiwari",
+    "specialty": "General Medicine",
+    "qualification": "MBBS, MD (Family Medicine)",
+    "experience": 12,
+    "fee": 500,
+    "rating": 4.8,
+    "reviews": 160,
+    "hospitalId": "hosp-ind-01",
+    "hospitalName": "Indore Super Specialty Hospital",
+    "city": "Indore",
+    "location": "Vijay Nagar, Indore",
+    "distance": "2.8 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "10:00 AM",
+      "12:00 PM",
+      "04:00 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "about": "Family physician offering complete primary care, routine checkups, and fever management.",
+    "gender": "female"
+  },
+  {
+    "id": "doc-ind-02",
+    "name": "Dr. Alok Agrawal",
+    "specialty": "Orthopedics",
+    "qualification": "MBBS, MS (Ortho), DNB",
+    "experience": 15,
+    "fee": 300,
+    "rating": 4.9,
+    "reviews": 204,
+    "hospitalId": "hosp-ind-02",
+    "hospitalName": "Malwa Healthcare Center",
+    "city": "Indore",
+    "location": "Sapna Sangeeta, Indore",
+    "distance": "3.1 km",
+    "availability": "Available Today",
+    "availableSlots": [
+      "09:30 AM",
+      "01:00 PM",
+      "05:30 PM"
+    ],
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "about": "Expert in sports injury rehabilitation, fracture fixations, and joint preserving procedures.",
+    "gender": "male"
+  }
+]

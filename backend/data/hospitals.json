@@ -1,0 +1,224 @@
+[
+  {
+    "id": "hosp-ngp-01",
+    "name": "Orange City Medical Institute",
+    "type": "Multi-Specialty Hospital",
+    "city": "Nagpur",
+    "location": "Dhantoli, Wardha Road, Nagpur",
+    "distance": "2.4 km",
+    "emergency": true,
+    "emergencyContact": "+91 712 254 9911",
+    "ambulanceContact": "108 / 112",
+    "generalBeds": 18,
+    "icuBeds": 4,
+    "oxygenAvailable": true,
+    "departments": [
+      "General Medicine",
+      "Cardiology",
+      "Orthopedics",
+      "Emergency & Trauma",
+      "Radiology",
+      "Pathology"
+    ],
+    "facilities": [
+      "24x7 Emergency",
+      "In-house Pharmacy",
+      "Ambulance Service",
+      "Diagnostic Center",
+      "ICU & NICU"
+    ],
+    "demoBadge": "Bed availability is updated in coordination with regional hospital triage."
+  },
+  {
+    "id": "hosp-ngp-02",
+    "name": "AIIMS Nagpur Rural Outreach Center",
+    "type": "Government Apex Healthcare",
+    "city": "Nagpur",
+    "location": "MIHAN, Nagpur",
+    "distance": "4.8 km",
+    "emergency": true,
+    "emergencyContact": "+91 712 280 5000",
+    "ambulanceContact": "108 / 112",
+    "generalBeds": 42,
+    "icuBeds": 9,
+    "oxygenAvailable": true,
+    "departments": [
+      "Cardiology",
+      "Neurology",
+      "General Medicine",
+      "Trauma Care",
+      "Oncology",
+      "Pediatrics"
+    ],
+    "facilities": [
+      "Apex Trauma Unit",
+      "Super-specialty OPD",
+      "Subsidized Pharmacy",
+      "Ayushman Bharat Empaneled"
+    ],
+    "demoBadge": "Bed availability is updated in coordination with regional hospital triage."
+  },
+  {
+    "id": "hosp-ngp-03",
+    "name": "Central Care Hospital",
+    "type": "Community Hospital & Diagnostic Center",
+    "city": "Nagpur",
+    "location": "Sitabuldi Metro Junction, Nagpur",
+    "distance": "1.8 km",
+    "emergency": true,
+    "emergencyContact": "+91 712 242 1100",
+    "ambulanceContact": "108 / 112",
+    "generalBeds": 12,
+    "icuBeds": 2,
+    "oxygenAvailable": true,
+    "departments": [
+      "General Medicine",
+      "Pediatrics",
+      "Dermatology",
+      "Pathology",
+      "Emergency"
+    ],
+    "facilities": [
+      "24x7 Pharmacy",
+      "Blood Storage",
+      "Digital X-Ray",
+      "Rural Triage Desk"
+    ],
+    "demoBadge": "Bed availability is updated in coordination with regional hospital triage."
+  },
+  {
+    "id": "hosp-ngp-04",
+    "name": "Dhantoli Community Health Center",
+    "type": "Sub-District Health Center",
+    "city": "Nagpur",
+    "location": "Wardha Road, Nagpur",
+    "distance": "3.1 km",
+    "emergency": false,
+    "emergencyContact": "+91 712 258 7744",
+    "ambulanceContact": "108 / 112",
+    "generalBeds": 15,
+    "icuBeds": 0,
+    "oxygenAvailable": true,
+    "departments": [
+      "General Medicine",
+      "Gynecology",
+      "ENT",
+      "Vaccination Center"
+    ],
+    "facilities": [
+      "Maternal Care",
+      "Immunization",
+      "Basic Laboratory",
+      "Generic Medicine Dispensary"
+    ],
+    "demoBadge": "Bed availability is updated in coordination with regional hospital triage."
+  },
+  {
+    "id": "hosp-bho-01",
+    "name": "AIIMS Bhopal Care Annex",
+    "type": "Government Apex Institution",
+    "city": "Bhopal",
+    "location": "Saket Nagar, Bhopal",
+    "distance": "3.5 km",
+    "emergency": true,
+    "emergencyContact": "+91 755 267 2355",
+    "ambulanceContact": "108 / 112",
+    "generalBeds": 35,
+    "icuBeds": 7,
+    "oxygenAvailable": true,
+    "departments": [
+      "General Medicine",
+      "Cardiology",
+      "Neurology",
+      "Trauma & Emergency",
+      "Pediatrics"
+    ],
+    "facilities": [
+      "Level-1 Trauma",
+      "Advanced ICU",
+      "Central Laboratory",
+      "24x7 Ambulance"
+    ],
+    "demoBadge": "Bed availability is updated in coordination with regional hospital triage."
+  },
+  {
+    "id": "hosp-bho-02",
+    "name": "Bhopal City Memorial Hospital",
+    "type": "General Multi-Specialty",
+    "city": "Bhopal",
+    "location": "Arera Colony, Bhopal",
+    "distance": "2.2 km",
+    "emergency": true,
+    "emergencyContact": "+91 755 244 8822",
+    "ambulanceContact": "108 / 112",
+    "generalBeds": 20,
+    "icuBeds": 4,
+    "oxygenAvailable": true,
+    "departments": [
+      "Pediatrics",
+      "General Medicine",
+      "Gynecology",
+      "Orthopedics"
+    ],
+    "facilities": [
+      "24x7 Emergency",
+      "Sonography",
+      "Pharmacy",
+      "Vaccine Clinic"
+    ],
+    "demoBadge": "Bed availability is updated in coordination with regional hospital triage."
+  },
+  {
+    "id": "hosp-ind-01",
+    "name": "Indore Super Specialty Hospital",
+    "type": "Tertiary Referral Hospital",
+    "city": "Indore",
+    "location": "Vijay Nagar, AB Road, Indore",
+    "distance": "2.8 km",
+    "emergency": true,
+    "emergencyContact": "+91 731 255 4400",
+    "ambulanceContact": "108 / 112",
+    "generalBeds": 28,
+    "icuBeds": 6,
+    "oxygenAvailable": true,
+    "departments": [
+      "General Medicine",
+      "Cardiology",
+      "Gynecology",
+      "Orthopedics",
+      "Emergency"
+    ],
+    "facilities": [
+      "Emergency Ward",
+      "CT / MRI",
+      "Modern Cath Lab",
+      "Free Health Card Registration"
+    ],
+    "demoBadge": "Bed availability is updated in coordination with regional hospital triage."
+  },
+  {
+    "id": "hosp-ind-02",
+    "name": "Malwa Healthcare Center",
+    "type": "Community Clinic & Nursing Home",
+    "city": "Indore",
+    "location": "Sapna Sangeeta Road, Indore",
+    "distance": "3.1 km",
+    "emergency": false,
+    "emergencyContact": "+91 731 247 1133",
+    "ambulanceContact": "108 / 112",
+    "generalBeds": 10,
+    "icuBeds": 1,
+    "oxygenAvailable": true,
+    "departments": [
+      "Orthopedics",
+      "Physiotherapy",
+      "General OPD"
+    ],
+    "facilities": [
+      "Day Care Surgery",
+      "Rehabilitation Gym",
+      "Diagnostic Lab"
+    ],
+    "demoBadge": "Bed availability is updated in coordination with regional hospital triage."
+  }
+]

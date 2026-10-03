@@ -1,0 +1,6 @@
+{
+  "name": "CAREPATH",
+  "description": "CAREPATH — From Referral to the Right Care. Intelligent healthcare guidance, verified doctor appointments, and hospital bed navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
